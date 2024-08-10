@@ -9,6 +9,3 @@
 
 ## Source code
 > This folder consist of the source code of the project
-
-## Tools
-> The pygame library was use for the simulation of the tool to keep track of the events going on on the keyboard. Therefore to un the code successfuly you must have the pygame library preinstaled on your computer
